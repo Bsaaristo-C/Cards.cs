@@ -1,0 +1,11 @@
+C:\Users\brian\source\repos\Saaristo-A1-Card\Saaristo-A1-Card\obj\Debug\Saaristo-A1-Card.csproj.AssemblyReference.cache
+C:\Users\brian\source\repos\Saaristo-A1-Card\Saaristo-A1-Card\obj\Debug\Saaristo-A1-Card.csproj.SuggestedBindingRedirects.cache
+C:\Users\brian\source\repos\Saaristo-A1-Card\Saaristo-A1-Card\obj\Debug\Saaristo_A1_Card.Properties.Resources.resources
+C:\Users\brian\source\repos\Saaristo-A1-Card\Saaristo-A1-Card\obj\Debug\Saaristo-A1-Card.csproj.GenerateResource.cache
+C:\Users\brian\source\repos\Saaristo-A1-Card\Saaristo-A1-Card\obj\Debug\Saaristo-A1-Card.csproj.CoreCompileInputs.cache
+C:\Users\brian\source\repos\Saaristo-A1-Card\Saaristo-A1-Card\bin\Debug\Saaristo-A1-Card.exe.config
+C:\Users\brian\source\repos\Saaristo-A1-Card\Saaristo-A1-Card\bin\Debug\Saaristo-A1-Card.exe
+C:\Users\brian\source\repos\Saaristo-A1-Card\Saaristo-A1-Card\bin\Debug\Saaristo-A1-Card.pdb
+C:\Users\brian\source\repos\Saaristo-A1-Card\Saaristo-A1-Card\obj\Debug\Saaristo-A1-Card.exe
+C:\Users\brian\source\repos\Saaristo-A1-Card\Saaristo-A1-Card\obj\Debug\Saaristo-A1-Card.pdb
+C:\Users\brian\source\repos\Saaristo-A1-Card\Saaristo-A1-Card\obj\Debug\Saaristo_A1_Card.CardNameDisplayer.resources
